@@ -1,0 +1,25 @@
+h1{
+color: white;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+p{
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+exursion{
+  text-align: right;
+  color: grey;
+}
+
+a{
+  color: aquamarine;
+  font-size: 16px;
+
+}
